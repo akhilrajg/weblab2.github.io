@@ -1,0 +1,17 @@
+.p1{
+	background-color:orange;
+	text-align:center;
+	border-style:dashed;
+}
+.p2{
+	background-color:yellow;
+	text-align:right;
+	border-style:solid;
+}
+.p3{
+	background-color:lightblue;
+	text-align:left;
+	border-style:dotted;
+}
+
+.heading1{ font-size:24px; }
